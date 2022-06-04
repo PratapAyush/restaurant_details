@@ -1,0 +1,53 @@
+[
+    {
+        "id" : 1,
+        "image" :"https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer1.jpeg",
+        "name" : "Chaitanya Parathas",
+        "category" : ["North India, Punjabi, Chinese, Thalis Combo, Beverages"],
+        "rating" : "4.3",
+        "deliveryTimimg" : "33Mins",
+        "costForTwo" : "200",
+        "offers" :["20%off" , "Use TRYNEW"]
+
+    },
+
+    {
+        "id" : 2,
+        "image" :"https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer1.jpeg",
+        "name" : "Chaitanya Parathas",
+        "category" : ["North India, Punjabi, Chinese, Thalis Combo, Beverages"],
+        "rating" : "4.3",
+        "deliveryTimimg" : "33Mins",
+        "costForTwo" : "200",
+        "offers" :["20%off" , "Use TRYNEW"]
+
+    },
+
+    {
+        "id" : 3,
+        "image" :"https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer1.jpeg",
+        "name" : "Chaitanya Parathas",
+        "category" : ["North India, Punjabi, Chinese, Thalis Combo, Beverages"],
+        "rating" : "0.3",
+        "deliveryTimimg" : "33Mins",
+        "costForTwo" : "1000",
+        "offers" :["20%off" , "Use TRYNEW"]
+
+    },
+
+    {
+        "id" : 4,
+        "image" :"https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer1.jpeg",
+        "name" : "Chaitanya Parathas",
+        "category" : ["North India, Punjabi, Chinese, Thalis Combo, Beverages"],
+        "rating" : "4",
+        "deliveryTimimg" : "33Mins",
+        "costForTwo" : "400",
+        "offers" :["20%off" , "Use TRYNEW"]
+
+    }
+   
+
+
+]
+
